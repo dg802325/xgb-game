@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/xgb-fumoji/pom.xml" />
+        <option value="$PROJECT_DIR$/xgb-ball/pom.xml" />
+        <option value="$PROJECT_DIR$/xgb-star/pom.xml" />
+        <option value="$PROJECT_DIR$/xgb-tom/pom.xml" />
+        <option value="$PROJECT_DIR$/xgb-word/pom.xml" />
+        <option value="$PROJECT_DIR$/xgb-pushBox/pom.xml" />
       </list>
     </option>
   </component>

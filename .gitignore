@@ -25,6 +25,6 @@
 hs_err_pid*
 
 将删除 .gitignore
-将删除 xgb-fumoji/src/test/
-将删除 xgb-fumoji/target/
-将删除 xgb-fumoji/target/generated-sources/
+将删除 xgb-voldemort/src/test/
+将删除 xgb-voldemort/target/
+将删除 xgb-voldemort/target/generated-sources/

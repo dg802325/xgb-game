@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/xgb-fumoji/xgb-fumoji.iml" filepath="$PROJECT_DIR$/xgb-fumoji/xgb-fumoji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgb-ball/xgb-ball.iml" filepath="$PROJECT_DIR$/xgb-ball/xgb-ball.iml" />
       <module fileurl="file://$PROJECT_DIR$/xgb-game.iml" filepath="$PROJECT_DIR$/xgb-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgb-pushBox/xgb-pushBox.iml" filepath="$PROJECT_DIR$/xgb-pushBox/xgb-pushBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgb-star/xgb-star.iml" filepath="$PROJECT_DIR$/xgb-star/xgb-star.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgb-tom/xgb-tom.iml" filepath="$PROJECT_DIR$/xgb-tom/xgb-tom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xgb-word/xgb-word.iml" filepath="$PROJECT_DIR$/xgb-word/xgb-word.iml" />
     </modules>
   </component>
 </project>

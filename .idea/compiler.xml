@@ -6,11 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xgb-fumoji" />
+        <module name="xgb-star" />
+        <module name="xgb-ball" />
+        <module name="xgb-pushBox" />
+        <module name="xgb-word" />
+        <module name="xgb-tom" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="xgb-fumoji" target="1.8" />
+      <module name="xgb-ball" target="1.8" />
+      <module name="xgb-pushBox" target="1.8" />
+      <module name="xgb-star" target="1.8" />
+      <module name="xgb-tom" target="1.8" />
+      <module name="xgb-voldemort" target="1.8" />
+      <module name="xgb-word" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
